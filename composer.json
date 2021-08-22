@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\aneliosauer\\php-classes\\src"
+            "Sauer\\": "vendor\\aneliosauer\\php-classes\\src"
         }
     }
 }

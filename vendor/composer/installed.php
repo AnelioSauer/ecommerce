@@ -1,22 +1,22 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => NULL,
+        'reference' => '09c84beab130897f5c9b1a3976451344609b7b7e',
         'name' => 'aneliosauer/ecommerce',
         'dev' => true,
     ),
     'versions' => array(
         'aneliosauer/ecommerce' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => NULL,
+            'reference' => '09c84beab130897f5c9b1a3976451344609b7b7e',
             'dev_requirement' => false,
         ),
         'phpmailer/phpmailer' => array(
